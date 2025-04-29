@@ -14,7 +14,7 @@ const PuzzleGrid: React.FC<PuzzleGridProps> = ({ size }) => {
     return (
       <div className="w-full h-full">
         <img 
-          src="../public/logo.png" 
+          src="../public/Succinct.png" 
           alt="Complete Puzzle" 
           className="w-full h-full object-cover"
         />
